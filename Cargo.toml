@@ -39,4 +39,4 @@ opt-level = 3
 inherits = "release"
 
 [patch.crates-io]
-piscem-rs = { path = "/workspaces/simpleaf/piscem-rs" }
+piscem-rs = { path = "/workspaces/simpleaf/piscem/piscem-rs" }
