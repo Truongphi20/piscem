@@ -40,3 +40,4 @@ inherits = "release"
 
 [patch.crates-io]
 piscem-rs = { path = "./piscem-rs" }
+paraseq = { path = "./piscem-rs/paraseq" }
